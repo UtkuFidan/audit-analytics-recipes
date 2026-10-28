@@ -1,0 +1,12 @@
+role,is_privileged,description
+AP_CLERK,False,Enters supplier invoices
+AP_APPROVER,False,Approves supplier invoices
+PAYMENT_RELEASER,False,Releases payment runs
+VENDOR_MASTER_ADMIN,True,Maintains vendor master data
+BUYER,False,Creates purchase orders
+PO_APPROVER,False,Approves purchase orders above the limit
+GL_POSTER,True,Posts manual journal entries
+GL_APPROVER,False,Approves manual journal entries
+SYS_ADMIN,True,System administration
+USER_ADMIN,True,Creates and changes user accounts
+VIEWER,False,Read-only reporting

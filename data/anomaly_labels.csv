@@ -1,0 +1,199 @@
+test_id,entity_type,entity_id,note
+bank_change_payment,payment,PAY-000129,paid after bank change
+bank_change_payment,payment,PAY-001606,paid after bank change
+bank_change_payment,payment,PAY-001630,paid after bank change
+bank_change_payment,payment,PAY-002064,paid after bank change
+bank_change_payment,payment,PAY-002203,paid after bank change
+bank_change_payment,payment,PAY-002272,paid after bank change
+bank_change_payment,payment,PAY-002413,paid after bank change
+bank_change_payment,payment,PAY-002458,paid after bank change
+bank_change_payment,payment,PAY-002543,paid after bank change
+bank_change_payment,payment,PAY-002887,paid after bank change
+bank_change_payment,payment,PAY-003247,paid after bank change
+bank_change_payment,payment,PAY-003335,paid after bank change
+benford_vendor,vendor,V0137,uniform fabricated amounts
+dormant_privileged_account,user,U0043,"privileged, idle >90d"
+dormant_privileged_account,user,U0054,"privileged, idle >90d"
+dormant_privileged_account,user,U0077,"privileged, idle >90d"
+dormant_privileged_account,user,U0151,"privileged, idle >90d"
+dormant_privileged_account,user,U0160,"privileged, idle >90d"
+dup_invoice_exact,invoice,INV-000071,copy of row 3709
+dup_invoice_exact,invoice,INV-000340,copy of row 3736
+dup_invoice_exact,invoice,INV-000631,copy of row 3462
+dup_invoice_exact,invoice,INV-001107,copy of row 984
+dup_invoice_exact,invoice,INV-001410,copy of row 953
+dup_invoice_exact,invoice,INV-001506,copy of row 3223
+dup_invoice_exact,invoice,INV-001702,copy of row 3091
+dup_invoice_exact,invoice,INV-001826,copy of row 3228
+dup_invoice_exact,invoice,INV-002224,copy of row 3572
+dup_invoice_exact,invoice,INV-002286,copy of row 2163
+dup_invoice_exact,invoice,INV-002308,copy of row 2010
+dup_invoice_exact,invoice,INV-002506,copy of row 4145
+dup_invoice_exact,invoice,INV-002599,copy of row 2560
+dup_invoice_exact,invoice,INV-002647,copy of row 3735
+dup_invoice_exact,invoice,INV-002841,copy of row 1502
+dup_invoice_exact,invoice,INV-002966,copy of row 2350
+dup_invoice_exact,invoice,INV-003183,copy of row 1208
+dup_invoice_exact,invoice,INV-003407,copy of row 633
+dup_invoice_exact,invoice,INV-003528,copy of row 3127
+dup_invoice_exact,invoice,INV-003573,copy of row 2011
+dup_invoice_exact,invoice,INV-003697,copy of row 3927
+dup_invoice_exact,invoice,INV-004009,copy of row 3302
+dup_invoice_exact,invoice,INV-004112,copy of row 1086
+dup_invoice_exact,invoice,INV-004170,copy of row 1889
+dup_invoice_exact,invoice,INV-004192,copy of row 1925
+dup_invoice_fuzzy,invoice,INV-000341,variant vendor copy
+dup_invoice_fuzzy,invoice,INV-000441,variant vendor copy
+dup_invoice_fuzzy,invoice,INV-000496,variant vendor copy
+dup_invoice_fuzzy,invoice,INV-000922,variant vendor copy
+dup_invoice_fuzzy,invoice,INV-001174,variant vendor copy
+dup_invoice_fuzzy,invoice,INV-001281,variant vendor copy
+dup_invoice_fuzzy,invoice,INV-001458,variant vendor copy
+dup_invoice_fuzzy,invoice,INV-001476,variant vendor copy
+dup_invoice_fuzzy,invoice,INV-001912,variant vendor copy
+dup_invoice_fuzzy,invoice,INV-001913,variant vendor copy
+dup_invoice_fuzzy,invoice,INV-002008,variant vendor copy
+dup_invoice_fuzzy,invoice,INV-002046,variant vendor copy
+dup_invoice_fuzzy,invoice,INV-002336,variant vendor copy
+dup_invoice_fuzzy,invoice,INV-002520,variant vendor copy
+dup_invoice_fuzzy,invoice,INV-002558,variant vendor copy
+dup_invoice_fuzzy,invoice,INV-003068,variant vendor copy
+dup_invoice_fuzzy,invoice,INV-003153,variant vendor copy
+dup_invoice_fuzzy,invoice,INV-003254,variant vendor copy
+dup_invoice_fuzzy,invoice,INV-003270,variant vendor copy
+dup_invoice_fuzzy,invoice,INV-003408,variant vendor copy
+dup_invoice_fuzzy,invoice,INV-003556,variant vendor copy
+dup_invoice_fuzzy,invoice,INV-003780,variant vendor copy
+dup_invoice_fuzzy,invoice,INV-003808,variant vendor copy
+dup_invoice_fuzzy,invoice,INV-003968,variant vendor copy
+je_round_amount,journal_entry,JE-000192,round amount
+je_round_amount,journal_entry,JE-000302,round amount
+je_round_amount,journal_entry,JE-000650,round amount
+je_round_amount,journal_entry,JE-000819,round amount
+je_round_amount,journal_entry,JE-001375,round amount
+je_round_amount,journal_entry,JE-001463,round amount
+je_round_amount,journal_entry,JE-001464,round amount
+je_round_amount,journal_entry,JE-001618,round amount
+je_round_amount,journal_entry,JE-001648,round amount
+je_round_amount,journal_entry,JE-002456,round amount
+je_round_amount,journal_entry,JE-002479,round amount
+je_round_amount,journal_entry,JE-003812,round amount
+je_round_amount,journal_entry,JE-005319,round amount
+je_round_amount,journal_entry,JE-005803,round amount
+je_round_amount,journal_entry,JE-005879,round amount
+je_round_amount,journal_entry,JE-006169,round amount
+je_round_amount,journal_entry,JE-006733,round amount
+je_round_amount,journal_entry,JE-007158,round amount
+je_round_amount,journal_entry,JE-008172,round amount
+je_round_amount,journal_entry,JE-008606,round amount
+je_round_amount,journal_entry,JE-008709,round amount
+je_round_amount,journal_entry,JE-009002,round amount
+je_unauthorized_poster,journal_entry,JE-000018,poster lacks post_journal
+je_unauthorized_poster,journal_entry,JE-000725,poster lacks post_journal
+je_unauthorized_poster,journal_entry,JE-002248,poster lacks post_journal
+je_unauthorized_poster,journal_entry,JE-002274,poster lacks post_journal
+je_unauthorized_poster,journal_entry,JE-003122,poster lacks post_journal
+je_unauthorized_poster,journal_entry,JE-003890,poster lacks post_journal
+je_unauthorized_poster,journal_entry,JE-004070,poster lacks post_journal
+je_unauthorized_poster,journal_entry,JE-005939,poster lacks post_journal
+je_unauthorized_poster,journal_entry,JE-007600,poster lacks post_journal
+je_unauthorized_poster,journal_entry,JE-007712,poster lacks post_journal
+je_unauthorized_poster,journal_entry,JE-007885,poster lacks post_journal
+je_unauthorized_poster,journal_entry,JE-009134,poster lacks post_journal
+je_unauthorized_poster,journal_entry,JE-009164,poster lacks post_journal
+je_unauthorized_poster,journal_entry,JE-009165,poster lacks post_journal
+je_unauthorized_poster,journal_entry,JE-009401,poster lacks post_journal
+je_weekend_holiday,journal_entry,JE-000132,posted on weekend/holiday
+je_weekend_holiday,journal_entry,JE-000143,posted on weekend/holiday
+je_weekend_holiday,journal_entry,JE-000622,posted on weekend/holiday
+je_weekend_holiday,journal_entry,JE-001129,posted on weekend/holiday
+je_weekend_holiday,journal_entry,JE-001310,posted on weekend/holiday
+je_weekend_holiday,journal_entry,JE-001957,posted on weekend/holiday
+je_weekend_holiday,journal_entry,JE-002164,posted on weekend/holiday
+je_weekend_holiday,journal_entry,JE-002298,posted on weekend/holiday
+je_weekend_holiday,journal_entry,JE-003156,posted on weekend/holiday
+je_weekend_holiday,journal_entry,JE-003585,posted on weekend/holiday
+je_weekend_holiday,journal_entry,JE-004396,posted on weekend/holiday
+je_weekend_holiday,journal_entry,JE-004995,posted on weekend/holiday
+je_weekend_holiday,journal_entry,JE-006817,posted on weekend/holiday
+je_weekend_holiday,journal_entry,JE-007835,posted on weekend/holiday
+je_weekend_holiday,journal_entry,JE-008050,posted on weekend/holiday
+je_weekend_holiday,journal_entry,JE-008667,posted on weekend/holiday
+je_weekend_holiday,journal_entry,JE-008858,posted on weekend/holiday
+je_weekend_holiday,journal_entry,JE-009547,posted on weekend/holiday
+leaver_active_account,user,U0097,"leaver, account active"
+leaver_active_account,user,U0109,"leaver, account active"
+leaver_active_account,user,U0113,"leaver, account active"
+leaver_active_account,user,U0139,"leaver, account active"
+leaver_active_account,user,U0153,"leaver, account active"
+sod_conflict,user,U0046,BUYER+PO_APPROVER
+sod_conflict,user,U0053,AP_CLERK+PAYMENT_RELEASER
+sod_conflict,user,U0071,AP_CLERK+PAYMENT_RELEASER
+sod_conflict,user,U0074,BUYER+PO_APPROVER
+sod_conflict,user,U0096,GL_APPROVER+GL_POSTER
+sod_conflict,user,U0120,BUYER+PO_APPROVER
+sod_conflict,user,U0130,AP_CLERK+PAYMENT_RELEASER
+sod_conflict,user,U0132,AP_CLERK+VENDOR_MASTER_ADMIN
+sod_conflict,user,U0154,GL_APPROVER+GL_POSTER
+sod_conflict,user,U0158,AP_CLERK+VENDOR_MASTER_ADMIN
+split_purchase,purchase_order,PO-000218,split group 12
+split_purchase,purchase_order,PO-000253,split group 12
+split_purchase,purchase_order,PO-000286,split group 12
+split_purchase,purchase_order,PO-000287,split group 12
+split_purchase,purchase_order,PO-000288,split group 18
+split_purchase,purchase_order,PO-000353,split group 3
+split_purchase,purchase_order,PO-000362,split group 3
+split_purchase,purchase_order,PO-000398,split group 3
+split_purchase,purchase_order,PO-000406,split group 18
+split_purchase,purchase_order,PO-000436,split group 3
+split_purchase,purchase_order,PO-000526,split group 18
+split_purchase,purchase_order,PO-000633,split group 18
+split_purchase,purchase_order,PO-000725,split group 17
+split_purchase,purchase_order,PO-000734,split group 4
+split_purchase,purchase_order,PO-000753,split group 4
+split_purchase,purchase_order,PO-000784,split group 4
+split_purchase,purchase_order,PO-000795,split group 2
+split_purchase,purchase_order,PO-000796,split group 4
+split_purchase,purchase_order,PO-000797,split group 11
+split_purchase,purchase_order,PO-000809,split group 2
+split_purchase,purchase_order,PO-000841,split group 11
+split_purchase,purchase_order,PO-000842,split group 17
+split_purchase,purchase_order,PO-000854,split group 2
+split_purchase,purchase_order,PO-000871,split group 2
+split_purchase,purchase_order,PO-000966,split group 17
+split_purchase,purchase_order,PO-001088,split group 17
+split_purchase,purchase_order,PO-001432,split group 13
+split_purchase,purchase_order,PO-001460,split group 13
+split_purchase,purchase_order,PO-001473,split group 13
+split_purchase,purchase_order,PO-001474,split group 13
+split_purchase,purchase_order,PO-001829,split group 14
+split_purchase,purchase_order,PO-001840,split group 14
+split_purchase,purchase_order,PO-001892,split group 7
+split_purchase,purchase_order,PO-001930,split group 7
+split_purchase,purchase_order,PO-001949,split group 7
+split_purchase,purchase_order,PO-002001,split group 5
+split_purchase,purchase_order,PO-002012,split group 5
+split_purchase,purchase_order,PO-002013,split group 5
+split_purchase,purchase_order,PO-002024,split group 5
+split_purchase,purchase_order,PO-002085,split group 8
+split_purchase,purchase_order,PO-002119,split group 8
+split_purchase,purchase_order,PO-002132,split group 8
+split_purchase,purchase_order,PO-002347,split group 1
+split_purchase,purchase_order,PO-002383,split group 1
+split_purchase,purchase_order,PO-002395,split group 1
+split_purchase,purchase_order,PO-002455,split group 10
+split_purchase,purchase_order,PO-002478,split group 10
+split_purchase,purchase_order,PO-002519,split group 10
+split_purchase,purchase_order,PO-003002,split group 9
+split_purchase,purchase_order,PO-003010,split group 9
+split_purchase,purchase_order,PO-003023,split group 9
+split_purchase,purchase_order,PO-003049,split group 9
+split_purchase,purchase_order,PO-003236,split group 15
+split_purchase,purchase_order,PO-003264,split group 15
+split_purchase,purchase_order,PO-003274,split group 15
+split_purchase,purchase_order,PO-003449,split group 16
+split_purchase,purchase_order,PO-003466,split group 16
+split_purchase,purchase_order,PO-003478,split group 6
+split_purchase,purchase_order,PO-003479,split group 16
+split_purchase,purchase_order,PO-003497,split group 16
+split_purchase,purchase_order,PO-003508,split group 6

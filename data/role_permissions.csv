@@ -1,0 +1,13 @@
+role,permission
+AP_CLERK,enter_invoice
+AP_APPROVER,approve_invoice
+PAYMENT_RELEASER,release_payment
+VENDOR_MASTER_ADMIN,edit_vendor
+VENDOR_MASTER_ADMIN,change_bank
+BUYER,create_po
+PO_APPROVER,approve_po
+GL_POSTER,post_journal
+GL_APPROVER,approve_journal
+SYS_ADMIN,admin_system
+USER_ADMIN,manage_users
+VIEWER,view_reports

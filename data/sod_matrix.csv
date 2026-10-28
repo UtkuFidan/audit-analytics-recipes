@@ -1,0 +1,6 @@
+role_a,role_b,rationale
+AP_CLERK,PAYMENT_RELEASER,Entering invoices and releasing payments
+AP_CLERK,VENDOR_MASTER_ADMIN,Entering invoices and editing vendor master data
+BUYER,PO_APPROVER,Creating and approving the same purchase order
+GL_POSTER,GL_APPROVER,Posting and approving the same journal entry
+SYS_ADMIN,GL_POSTER,System administration combined with journal posting
